@@ -1,0 +1,29 @@
+.border-bottoms{
+    border-bottom: 2px solid #242121;
+}
+.border-ups{
+    border-top: 2px solid #242121;
+}
+/*.longbg{
+    background-image: url(image/portmafia.jpg);
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(images/mondstadt.jpg);
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+}*/
+#info{
+    background-color: #fbf6f1;
+}
+.info-bg{
+    background: linear-gradient(rgba(20, 20, 20, 0.5), rgba(15, 15, 16, 0.5)), url(image/portmafia.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.text-over{
+    padding-top: 90px;
+    padding-bottom: 90px;
+    color: #fbf6f1;
+    text-align: center;
+}
